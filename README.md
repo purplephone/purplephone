@@ -17,8 +17,6 @@
 </div>
 <br>
 
-<div align="center">
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=samag)](https://solved.ac/samag)
-</div>
 
 <h1></h1>
