@@ -8,6 +8,12 @@
     <br>
     <a href="https://velog.io/@samag" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=velog&logoColor=white"/></a> &nbsp <a href="mailto:alsdnsla12345@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 </div>
+
+<div align="center">
+    
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=samag)](https://solved.ac/samag)
+    
+</div>
     
 <h1></h1>
     
@@ -16,11 +22,5 @@
     <img style="height: 180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purplephone&layout=compact">
 </div>
 <br>
-
-<div align="center">
-    
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=samag)](https://solved.ac/samag)
-    
-</div>
 
 <h1></h1>
