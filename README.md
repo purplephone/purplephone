@@ -15,6 +15,7 @@
     <img style="height: 180px" src="https://github-readme-stats.vercel.app/api?username=purplephone">
     <img style="height: 180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purplephone&layout=compact">
 </div>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=andong3282)](https://solved.ac/samag)
-    
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=samag)](https://solved.ac/samag)
+
 <h1></h1>
